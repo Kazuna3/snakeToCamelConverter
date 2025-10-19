@@ -1,5 +1,3 @@
-
-
 public class SnakeToCamelConverter {
 
 	public static String convert(String input) {
